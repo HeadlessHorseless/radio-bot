@@ -8,16 +8,17 @@
 - !play (yt url / name)  --can take a few minutes depending on how long the video is
 - !stop                         --stops the bot from micspamming
 - !help                         --the bot explains this one for you
-- !earrapeify                --makes the current song become earrape (Joke feature)
-- !partyleader               --gives you party leader role (ONLY WORKS WHEN IN PARTY)
-- !votelogs                  --toggles the vote logging feature (basically shows you who votes yes or no) (default is on) (Only takes effect when in party)
-- !db (59-107)               --How loud or quiet the current song should be (can be used to reset the earrapeify command) (default is 86 (works best))
-- !current                   --Displays the current song
-- !spin (-30 - +30)          --how fast the bot spins
-- !leave                     --Makes the bot leave
-- !killbind                  --killbinds
-- !queue (map name)          --makes the bot queue for a map (put no map for the bot to queue via preset (all maps)) (works best when in bot's party)
-- !aa (settings)          --Changes the AA (Anti-Aim or SpinBot) (Overrides the !spin command)
+- !earrapeify                   --makes the current song become earrape (Joke feature)
+- !partyleader                  --gives you party leader role (ONLY WORKS WHEN IN PARTY)
+- !votelogs                     --toggles the vote logging feature (basically shows you who votes yes or no) (default is on) (Only takes effect when in party)
+- !db (59-107)                  --How loud or quiet the current song should be (can be used to reset the earrapeify command) (default is 86 (works best))
+- !current                      --Displays the current song
+- !spin (-30 - +30)             --how fast the bot spins
+- !leave                        --Makes the bot leave
+- !killbind                     --killbinds
+- !queue (map name)             --makes the bot queue for a map (put no map for the bot to queue via preset (all maps)) (works best when in bot's party)
+- !aa (settings)                --Changes the AA (SpinBot) (Overrides the !spin command)
+- !kick (player)                --Need someone to kick a bot but you are on cooldown? Well we got the feature just for you!
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
 
