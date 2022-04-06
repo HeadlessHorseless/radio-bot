@@ -7,6 +7,7 @@
 ## to get started here are some commands:
 - !play (yt url / name)  --can take a few minutes depending on how long the video is
 - !stop                         --stops the bot from micspamming
+- !skip                         --skips the previous play request
 - !help                         --the bot explains this one for you
 - !earrapeify                   --makes the current song become earrape (Joke feature)
 - !partyleader                  --gives you party leader role (ONLY WORKS WHEN IN PARTY)
