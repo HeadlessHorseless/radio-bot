@@ -10,6 +10,7 @@
 - !help                         --the bot explains this one for you
 - !earrapeify                --makes the current song become earrape (Joke feature)
 - !partyleader               --gives you party leader role (ONLY WORKS WHEN IN PARTY)
+- !votelogs                  --toggles the vote logging feature (basically shows you who votes yes or no)
 
 ## other stuff
 - total amount of radio bots: 1
@@ -17,7 +18,7 @@
 - The default song the bot plays upon joining is usually the last one picked if not, dicky needles will play
 - The bot doesnt leave spawn unless it has to and will most likely start spinning just cause
 - The bot can also call votekicks on other bots
-- You are free to join the bots party, just note that party chat gets flooded with votekick logs
+- You are free to add the bot to your party whenever
 - commands are also compatible in party chat
 - The bot will requeue once the match is considered "dead" (bot filled matches or empty matches)
 
