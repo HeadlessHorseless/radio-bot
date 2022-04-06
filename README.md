@@ -35,7 +35,20 @@
 - commands are also compatible in party chat
 - The bot will requeue once the match is considered "dead" (bot filled matches or empty matches)
 
-## List of AA Presets
+## List of AA Settings
+- Up
+- Down
+- Random
+- Fake Up
+- Fake Down
+- Right
+- Left
+- Backwards
+- Spin
+- Edge
+- On Hurt
+
+#### Presets:
 - default
 - hvh
 - spin
