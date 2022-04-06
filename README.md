@@ -16,6 +16,7 @@
 - !spin (-30 - +30)          --how fast the bot spins
 - !leave                     --Makes the bot leave
 - !killbind                  --killbinds
+- !queue (map name)          --makes the bot queue for a map (put no map for the bot to queue via preset (all maps)) (works best when in bot's party)
 - 
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
 
