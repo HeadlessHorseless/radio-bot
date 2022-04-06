@@ -19,6 +19,7 @@
 - !queue (map name)             --makes the bot queue for a map (put no map for the bot to queue via preset (all maps)) (works best when in bot's party)
 - !aa (settings)                --Changes the AA (SpinBot) (Overrides the !spin command)
 - !kick (player)                --Need someone to kick a bot but you are on cooldown? Well we got the feature just for you!
+- !class (classname)            --Tired of a spinning scout? maybe try a medic or a soldier. Changes the class of the bot
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
