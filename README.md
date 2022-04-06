@@ -20,6 +20,7 @@
 - !aa (settings)                --Changes the AA (SpinBot) (Overrides the !spin command)
 - !kick (player)                --Need someone to kick a bot but you are on cooldown? Well we got the feature just for you!
 - !class (classname)            --Tired of a spinning scout? maybe try a medic or a soldier. Changes the class of the bot
+- !ping                         --If the bot is ignoring your requests do this command for the bot to respond, if no response wait a couple of minutes
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
