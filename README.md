@@ -14,6 +14,7 @@
 - !db (59-107)               --How loud or quiet the current song should be (can be used to reset the earrapeify command) (default is 86 (works best))
 - !current                   --Displays the current song
 - !spin (-30 - +30)          --how fast the bot spins
+- !leave                     --Makes the bot leave
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
 
