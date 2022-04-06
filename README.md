@@ -17,7 +17,7 @@
 - !leave                     --Makes the bot leave
 - !killbind                  --killbinds
 - !queue (map name)          --makes the bot queue for a map (put no map for the bot to queue via preset (all maps)) (works best when in bot's party)
-- !aa (aa settings)          --Changes the AA (Anti-Aim or SpinBot) (Overrides the !spin command) example command !aa up edge random14 (Pitch RealYaw FakeYaw) Allows presets! Example: !aa hvh or !aa spin
+- !aa (settings)          --Changes the AA (Anti-Aim or SpinBot) (Overrides the !spin command) example command !aa up edge random14 (Pitch RealYaw FakeYaw) Allows presets! Example: !aa hvh or !aa spin
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
 
