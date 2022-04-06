@@ -44,3 +44,5 @@
 - none
 
 > if you want to either request a new feature or just want to talk to me my discord is Headless#4855
+> the bot's base is NOT avalible for download anywhere.
+> however all you need is an undetected cheat base, a p2p account and a bit of programming experience to recreate this bot
