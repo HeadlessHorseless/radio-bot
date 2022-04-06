@@ -17,7 +17,8 @@
 - !leave                     --Makes the bot leave
 - !killbind                  --killbinds
 - !queue (map name)          --makes the bot queue for a map (put no map for the bot to queue via preset (all maps)) (works best when in bot's party)
-- 
+- !aa (aa settings)          --Changes the AA (Anti-Aim or SpinBot) (Overrides the !spin command) example command !aa up edge random14 (Pitch RealYaw FakeYaw) Allows presets! Example: !aa hvh or !aa spin
+-
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
 
 ## other stuff
@@ -29,5 +30,13 @@
 - You are free to add the bot to your party whenever
 - commands are also compatible in party chat
 - The bot will requeue once the match is considered "dead" (bot filled matches or empty matches)
+
+## List of AA Presets
+- default
+- hvh
+- spin
+- too much caffine
+- UpSpin
+- none
 
 > if you want to either request a new feature or just want to talk to me my discord is Headless#4855
