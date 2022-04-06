@@ -10,7 +10,7 @@
 - !help                         --the bot explains this one for you
 - !earrapeify                --makes the current song become earrape (Joke feature)
 - !partyleader               --gives you party leader role (ONLY WORKS WHEN IN PARTY)
-- !votelogs                  --toggles the vote logging feature (basically shows you who votes yes or no)
+- !votelogs                  --toggles the vote logging feature (basically shows you who votes yes or no) (default is on)
 
 ## other stuff
 - total amount of radio bots: 1
