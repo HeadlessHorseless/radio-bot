@@ -1,5 +1,5 @@
- #### This page is intended to list the commands for the bot
- #### so no more filling the profile's about me section
+#### This page is intended to list the commands for the bot
+#### so no more filling the profile's about me section
 
 #### This is radio bot
 #### a controllable micspam bot created by [Headless](https://steamcommunity.com/id/HeadlessHorselessHorseman/)
