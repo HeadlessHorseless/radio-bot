@@ -9,6 +9,7 @@
 - !stop                         --stops the bot from micspamming
 - !help                         --the bot explains this one for you
 - !earrapeify                --makes the current song become earrape (Joke feature)
+- !partyleader               --gives you party leader role (ONLY WORKS WHEN IN PARTY)
 
 ## other stuff
 - total amount of radio bots: 1
