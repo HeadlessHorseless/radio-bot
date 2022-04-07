@@ -35,6 +35,7 @@
 - You are free to add the bot to your party whenever
 - commands are also compatible in party chat
 - The bot will requeue once the match is considered "dead" (bot filled matches or empty matches)
+- The bot saves every song you request straight to this repository's release section
 
 ## List of AA Settings
 - Up
