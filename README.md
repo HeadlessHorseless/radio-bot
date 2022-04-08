@@ -40,6 +40,7 @@
 - commands are also compatible in party chat
 - The bot will requeue once the match is considered "dead" (bot filled matches or empty matches)
 - The bot saves every song you request straight to this repository's release section
+- every song saved into this repository does not need to download them so switching is almost instant
 - The bot's region is EU
 
 ## List of AA Settings
