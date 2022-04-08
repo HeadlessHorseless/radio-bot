@@ -28,7 +28,7 @@
 - !sniperbot                    --makes the bot switch to sniper and do bot things (gets the bot kicked tho)
 - !addfriend                    --The bot will automaticly add you as a friend (useful if you cant add people)
 - !partycrash                   --crashes everyone in the party (joke feature)
-- !playlist                     --plays the entire bot playlist (requests and default)
+- !playlist                     --plays the entire bot playlist (requests and default) (check repository for playlist)
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
