@@ -25,6 +25,7 @@
 - !medicbot                     --Makes the bot switch to medic and follow you
 - !dlspeed                      --checks the current download speed
 - !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot)
+- !sniperbot                    --makes the bot do bot things (gets the bot kicked tho)
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
