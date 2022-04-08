@@ -45,6 +45,7 @@
 - The bot saves every song you request straight to this repository's release section
 - every song saved into this repository does not need to download them so switching is almost instant
 - The bot's region is EU
+- If the bot is online and not seemingly doing anything it means either i logged into the bot to check on stuff or the bot is prepping to launch the game
 
 ## List of AA Settings
 - Up
