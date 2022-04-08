@@ -24,7 +24,7 @@
 - !ping                         --If the bot is ignoring your requests do this command for the bot to respond, if no response wait a couple of minutes
 - !medicbot                     --Makes the bot switch to medic and follow you (the bot can sometimes lock onto other teammates but the beam will stay on you)
 - !dlspeed                      --checks the current download speed
-- !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot)
+- !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot) (due to the fact that headlessbots and lodbots use the exact same cheat you can use this for free headlessbot and lodbot immunity)
 - !sniperbot                    --makes the bot switch to sniper and do bot things (gets the bot kicked tho)
 - !addfriend                    --The bot will automaticly add you as a friend (useful if you cant add people)
 - !partycrash                   --crashes everyone in the party (joke feature)
