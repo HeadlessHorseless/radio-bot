@@ -24,6 +24,7 @@
 - !ping                         --If the bot is ignoring your requests do this command for the bot to respond, if no response wait a couple of minutes
 - !medicbot                     --Makes the bot switch to medic and follow you
 - !dlspeed                      --checks the current download speed
+- !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot)
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
