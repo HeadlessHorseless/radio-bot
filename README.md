@@ -18,7 +18,7 @@
 - !leave                        --Makes the bot leave
 - !killbind                     --killbinds
 - !queue (map name)             --makes the bot queue for a map (put no map for the bot to queue via preset (all maps)) (works best when in bot's party)
-- !aa (settings)                --Changes the AA (SpinBot) (Overrides the !spin command)
+- !aa (settings)                --Changes the AA (SpinBot) (Overrides the !spin command) (leave blank for random)
 - !kick (player)                --Need someone to kick a bot but you are on cooldown? Well we got the feature just for you!
 - !class (classname)            --Tired of a spinning scout? maybe try a medic or a soldier. Changes the class of the bot
 - !ping                         --If the bot is ignoring your requests do this command for the bot to respond, if no response wait a couple of minutes
