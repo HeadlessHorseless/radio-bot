@@ -1,5 +1,5 @@
 > For now, this bot "retired" due to needing the bot's account for other stuff
-.
+- .
 #### This page is intended to list the commands for the bot
 #### so no more filling the profile's about me section
 
