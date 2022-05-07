@@ -1,3 +1,5 @@
+## The bots playlist has been moved over from default to "Radio Bot" meaning the sound requests have been mostly reset (minus Thats Life)
+
 #### This is radio bot
 #### a controllable micspam bot created by [Headless](https://steamcommunity.com/id/HeadlessHorselessHorseman/)
 
