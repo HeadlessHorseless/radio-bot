@@ -32,6 +32,7 @@
 - !name                         --changes the name of the bot (stays until the bot's game closes)
 - !joinserver (server ip)       --makes the bot join a server (I'd like it if you keep the bot away from community servers 99% of the time (so the bot doesnt get banned, the bot will not accept !sniperbot/!medicbot requests on community servers) (prefix also changes to ? example: ?play))
 - !chatspam (option)            --makes the bot spam chat from default presets (Accepted presets: lmaobox, cathook, fedoraware) (request)
+- !avatar (image link)          --changes the pfp of the bot (use !avatar default to return to the default)
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
