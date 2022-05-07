@@ -19,7 +19,7 @@
 - !kick (player)                --Need someone to kick a bot but you are on cooldown? Well we got the feature just for you!
 - !class (classname)            --Tired of a spinning scout? maybe try a medic or a soldier. Changes the class of the bot
 - !ping                         --If the bot is ignoring your requests do this command for the bot to respond, if no response wait a couple of minutes
-- !medicbot                     --Makes the bot switch to medic and follow you (the bot can sometimes lock onto other teammates but the beam will stay on you)
+- !medicbot                     --Makes the bot switch to medic and follow you (the bot can sometimes lock onto other teammates but the beam will stay on you) (The healing broke somehow)
 - !dlspeed                      --checks the current download speed
 - !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot) (due to the fact that headlessbots and lodbots use the exact same cheat you can use this for free headlessbot and lodbot immunity)
 - !sniperbot                    --makes the bot switch to sniper and do bot things (might get the bot kicked) (you can combine this with !class for scout bot, heavy bot, etc) (DISABLED FOR NOW)
