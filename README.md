@@ -26,7 +26,7 @@
 - !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot) (due to the fact that headlessbots and lodbots use the exact same cheat you can use this for free headlessbot and lodbot immunity)
 - !sniperbot                    --makes the bot switch to sniper and do bot things (might get the bot kicked) (you can combine this with !class for scout bot, heavy bot, etc) (DISABLED FOR NOW)
 - !addfriend                    --The bot will automaticly add you as a friend (useful if you cant add people)
-- !partycrash                   --crashes everyone in the party (joke feature)
+- !partycrash                   --crashes everyone in the party (joke feature) (not tested)
 - !playlist                     --plays the entire bot playlist (requests and default) (check repository for playlist)
 - !rejoin                       --makes the bot rejoin after someone uses !leave (requires a party member to be ingame)
 - !name                         --changes the name of the bot (stays until the bot's game closes)
