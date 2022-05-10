@@ -35,6 +35,7 @@
 - !chatspam (option)            --makes the bot spam chat from default presets (Accepted presets: lmaobox, cathook, fedoraware) (request)
 - !avatar (image link)          --changes the pfp of the bot (use !avatar default to return to the default)
 - !playback                     --does exactly what !playlist used to do but keeps it at current song
+- !screenshot (upload?)         --another way to clog up my ssd! Makes a screenshot from the current pov of the bot (if it should be uploaded do "!screenshot upload")
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
