@@ -29,7 +29,7 @@
 - !partycrash                   --crashes everyone in the party (joke feature) (not tested)
 - !playlist (playlist name)     --plays either the entire bot playlist (requests and default) or a specific one (found here)
 - !rejoin                       --makes the bot rejoin after someone uses !leave (requires a party member to be ingame)
-- !name                         --changes the name of the bot (stays until the bot's game closes)
+- !name                         --changes the name of the bot (stays until the bot's game closes) (it removes the !help for commands part of the name meaning people wont know its a radio bot and not a normal bot)
 - !joinserver (server ip)       --makes the bot join a server (I'd like it if you keep the bot away from community servers 99% of the time (so the bot doesnt get banned, the bot will not accept !sniperbot/!medicbot requests on community servers) (prefix also changes to ? example: ?play))
 - !chatspam (option)            --makes the bot spam chat from default presets (Accepted presets: lmaobox, cathook, fedoraware) (request)
 - !avatar (image link)          --changes the pfp of the bot (use !avatar default to return to the default)
