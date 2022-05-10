@@ -2,6 +2,7 @@
 
 #### This is radio bot
 #### a controllable micspam bot created by [Headless](https://steamcommunity.com/id/HeadlessHorselessHorseman/)
+#### original concept came from the "Remote Controlled Bot" idea (a bot that you can control via chat commands, i never got to finishing the idea and got left with Radio Bot)
 
 ## to get started here are some commands:
 - !play (yt url / title)  --can take a few minutes depending on how long the video is (Download speed is usually about 2MB/s but can drop to 0.1MB/s) (sometimes problems can occour on certain videos (sometimes its old videos sometimes its really random or sometimes the bot cant even find the video))
