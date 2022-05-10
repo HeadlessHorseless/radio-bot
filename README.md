@@ -21,13 +21,13 @@
 - !kick (player)                --Need someone to kick a bot but you are on cooldown? Well we got the feature just for you!
 - !class (classname)            --Tired of a spinning scout? maybe try a medic or a soldier. Changes the class of the bot
 - !ping                         --If the bot is ignoring your requests do this command for the bot to respond, if no response wait a couple of minutes
-- !medicbot                     --Makes the bot switch to medic and follow you (the bot can sometimes lock onto other teammates but the beam will stay on you) (The healing broke somehow)
+- !medicbot                     --Makes the bot switch to medic and follow you (the bot can sometimes lock onto other teammates but the beam will stay on you) DISABLED FOR NOW
 - !dlspeed                      --checks the current download speed
 - !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot) (due to the fact that headlessbots and lodbots use the exact same cheat you can use this for free headlessbot and lodbot immunity)
 - !sniperbot                    --makes the bot switch to sniper and do bot things (might get the bot kicked) (you can combine this with !class for scout bot, heavy bot, etc) (DISABLED FOR NOW)
 - !addfriend                    --The bot will automaticly add you as a friend (useful if you cant add people)
 - !partycrash                   --crashes everyone in the party (joke feature) (not tested)
-- !playlist                     --plays the entire bot playlist (requests and default) (check repository for playlist)
+- !playlist (playlist name)     --plays either the entire bot playlist (requests and default) or a specific one (found here)
 - !rejoin                       --makes the bot rejoin after someone uses !leave (requires a party member to be ingame)
 - !name                         --changes the name of the bot (stays until the bot's game closes)
 - !joinserver (server ip)       --makes the bot join a server (I'd like it if you keep the bot away from community servers 99% of the time (so the bot doesnt get banned, the bot will not accept !sniperbot/!medicbot requests on community servers) (prefix also changes to ? example: ?play))
@@ -71,7 +71,15 @@
 - too much caffine
 - UpSpin
 - none
-
+#### Playlists:
+- Default (includes old radio bot playlist)
+- wind
+- helf lief (only includes one track)
+- chillbot
+- earrape
+- micspam (includes basically everything lodbots tend to micspam)
+- Radio Bot (new default)
+- Omegatronic (includes most of omegatronic's micspam)
 > if you want to either request a new feature or just want to talk to me my discord is Headless#4855
 > the bot's base is NOT avalible for download anywhere.
 > however all you need is an undetected cheat base, a p2p account and a bit of programming experience to recreate this bot
