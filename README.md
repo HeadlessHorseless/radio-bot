@@ -4,7 +4,7 @@
 #### a controllable micspam bot created by [Headless](https://steamcommunity.com/id/HeadlessHorselessHorseman/)
 
 ## to get started here are some commands:
-- !play (yt url / title)  --can take a few minutes depending on how long the video is (Download speed is usually about 2MB/s but can drop to 0.1MB/s)
+- !play (yt url / title)  --can take a few minutes depending on how long the video is (Download speed is usually about 2MB/s but can drop to 0.1MB/s) (sometimes problems can occour on certain videos (sometimes its old videos sometimes its really random or sometimes the bot cant even find the video))
 - !stop                         --stops the bot from micspamming
 - !skip                         --skips the previous play request
 - !help                         --the bot explains this one for you
