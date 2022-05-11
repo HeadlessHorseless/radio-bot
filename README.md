@@ -58,6 +58,7 @@
 ## List of AA Settings
 - Up
 - Down
+- Zero
 - Random
 - Fake Up
 - Fake Down
