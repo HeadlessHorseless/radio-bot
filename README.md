@@ -43,7 +43,7 @@
 ## other stuff
 - total amount of radio bots: 1
 - once VAC Banned these bots will cease to exist unless someone else decides to make some
-- The default song the bot plays upon joining is usually the last one picked if not, dicky needles will play
+- The default song the bot plays upon joining is usually the last one picked if not, Thats life will play
 - The bot doesnt leave spawn unless it has to and will most likely start spinning just cause
 - The bot can also call votekicks on other bots
 - You are free to add the bot to your party whenever (if the bot does not respond at all to your invite it either means the bot has blacklisted you or its already in a party (the bot will keep on thinking its in a party when the bot gets removed))
