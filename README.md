@@ -36,6 +36,7 @@
 - !avatar (image link)          --changes the pfp of the bot (use !avatar default to return to the default)
 - !playback                     --does exactly what !playlist used to do but keeps it at current song
 - !screenshot (upload?)         --another way to clog up my ssd! Makes a screenshot from the current pov of the bot (if it should be uploaded do "!screenshot upload")
+- !followbot                    --Makes the bot follow someone (if the target disconnects the bot will crash)
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
@@ -53,7 +54,7 @@
 - every song saved into this repository does not need to download them so switching is almost instant
 - The bot's region is EU
 - If the bot is online and not seemingly doing anything it means either i logged into the bot to check on stuff or the bot is prepping to launch the game
-- The bot will automaticly stop micspamming upon votekick to avoid needing to run voicetoggle twice
+- The bot will automaticly stop micspamming upon votekick to avoid needing voicetoggle to be run manually
 
 ## List of AA Settings
 - Up
