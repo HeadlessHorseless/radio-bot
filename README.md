@@ -5,7 +5,7 @@
 #### original concept came from the "Remote Controlled Bot" idea (a bot that you can control via chat commands, i never got to finishing the idea and got left with Radio Bot)
 
 ## to get started here are some commands:
-- !play (yt url / title)  --can take a few minutes depending on how long the video is (Download speed is usually about 2MB/s but can drop to 0.1MB/s) (sometimes problems can occour on certain videos (sometimes its old videos sometimes its really random or sometimes the bot cant even find the video))
+- !play (yt url / title)  --can take a few minutes depending on how long the video is (Download speed is usually about 2MB/s but can drop to 0.1MB/s) (sometimes problems can occour on certain videos (sometimes its old videos sometimes its really random or sometimes the bot cant even find the video)) You also have the option to manually review a video by doing "!play (title) manual review" which tends to have slower results but its more accurate for title
 - !stop                         --stops the bot from micspamming
 - !skip                         --skips the previous play request
 - !help                         --the bot explains this one for you
