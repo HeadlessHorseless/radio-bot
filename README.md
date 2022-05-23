@@ -36,7 +36,7 @@
 - !avatar (image link)          --changes the pfp of the bot (use !avatar default to return to the default)
 - !playback                     --does exactly what !playlist used to do but keeps it at current song
 - !screenshot (upload?)         --another way to clog up my ssd! Makes a screenshot from the current pov of the bot (if it should be uploaded do "!screenshot upload")
-- !followbot                    --Makes the bot follow someone (if the target disconnects the bot will crash)
+- !followbot                    --Makes the bot follow someone (crashes quite a lot)
 - !noisemakerspam (noisemaker)  --Spams the selected noisemaker (Currently the bot only has the vuvuzela)
 - .
 -
