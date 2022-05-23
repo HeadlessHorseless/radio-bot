@@ -25,7 +25,7 @@
 - !medicbot                     --Makes the bot switch to medic and follow you (the bot can sometimes lock onto other teammates but the beam will stay on you) DISABLED FOR NOW DUE TO BUGS
 - !dlspeed                      --checks the current download speed
 - !ignoreme                     --sets you on the bot ignore list (useless if you are friend with bot) (due to the fact that headlessbots and lodbots use the exact same cheat you can use this for free headlessbot and lodbot immunity)
-- !sniperbot                    --makes the bot switch to sniper and do bot things (might get the bot kicked) (you can combine this with !class for scout bot, heavy bot, etc) (DISABLED FOR NOW)
+- !sniperbot                    --makes the bot switch to sniper and do bot things (might get the bot kicked) (you can combine this with !class for scout bot, heavy bot, etc)
 - !addfriend                    --The bot will automaticly add you as a friend (useful if you cant add people)
 - !partycrash                   --crashes everyone in the party (joke feature) (not tested)
 - !playlist (playlist name)     --plays either the entire bot playlist (requests and default) or a specific one (found here)
@@ -37,6 +37,7 @@
 - !playback                     --does exactly what !playlist used to do but keeps it at current song
 - !screenshot (upload?)         --another way to clog up my ssd! Makes a screenshot from the current pov of the bot (if it should be uploaded do "!screenshot upload")
 - !followbot                    --Makes the bot follow someone (if the target disconnects the bot will crash)
+- !noisemakerspam (noisemaker)  --Spams the selected noisemaker (Currently the bot only has the vuvuzela)
 - .
 -
 - !!If you type a command that doesnt exist (example: !hlep , !db 48) the bot will instead send an error!!
